@@ -13,3 +13,8 @@ Proje Videosu:
 2. design.md dosyası ve Google Stitch ile uygulama arayüzü tasarlandı.
 3. Google Stitch uygulamasından alınan 4 arayüz AI Studio (Gemini 3.5 Flash) ile dışarı aktarılıp frontend kodları üretilmiştir (dosyalar, design klasörünün altındadır)
 4. Alınan arayüz kodları (html/css/js) kodlama araçları ve opus yapay zeka modeli ile geliştirilip ilgili Google API ları sisteme bağlanıp video çekilmiştir. Deploy henüz alınmamıştır.
+
+## Proje Dizini
+Design: Frontend için fikir aşamasındaki arayüz tasarımları buradadır.
+Project: Proje ana kodları buradadır.
+Jüri: Gereksinim ve değerlendirme kriterleri buradadır.
