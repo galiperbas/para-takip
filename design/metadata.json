@@ -1,0 +1,6 @@
+{
+  "name": "Para Takip",
+  "description": "Yapay zeka asistanı, akıllı faturadan veri çıkarma (Gemini Vision) ve gelişmiş analiz özellikleri barındıran akıllı finansal gözetim bütçe uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
