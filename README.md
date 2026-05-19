@@ -6,5 +6,5 @@
 ## Projenin Yapım Metodolojisi
 
 1. Gemini 3 ile fikir üzerinden design.md dosyası oluşturuldu
-2. design.md dosyası Google Stitch ile uygulama arayüzü tasarlandı.
+2. design.md dosyası ve Google Stitch ile uygulama arayüzü tasarlandı.
 3. 
