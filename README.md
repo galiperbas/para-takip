@@ -5,7 +5,9 @@
 
 ## Proje Demosu/Videosu
 
-Proje Videosu: 
+Proje Videosu: https://youtu.be/s8p7NeP6SAk
+
+! Önemli Not: Proje fikir aşamasındadır. Geliştirmeler ve ileri fonksiyonlar eklenmektedir. Kısa süre içinde, MVP olması açısından hazırlanmıştır.
 
 ## Projenin Yapım Metodolojisi
 
