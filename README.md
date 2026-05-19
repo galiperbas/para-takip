@@ -12,4 +12,4 @@ Proje Videosu:
 1. Gemini 3 ile fikir üzerinden design.md dosyası oluşturuldu
 2. design.md dosyası ve Google Stitch ile uygulama arayüzü tasarlandı.
 3. Google Stitch uygulamasından alınan 4 arayüz AI Studio (Gemini 3.5 Flash) ile dışarı aktarılıp frontend kodları üretilmiştir (dosyalar, design klasörünün altındadır)
-4. Alınan arayüz kodları (html/css/js) claude code opus 4.7 ile geliştirilip ilgili Google API ları sisteme bağlanıp video çekilmiştir. Deploy henüz alınmamıştır.
+4. Alınan arayüz kodları (html/css/js) kodlama araçları ve opus yapay zeka modeli ile geliştirilip ilgili Google API ları sisteme bağlanıp video çekilmiştir. Deploy henüz alınmamıştır.
